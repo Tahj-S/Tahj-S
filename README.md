@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @TahjaeDev
-- 🏛 the official Founder of Tosverse Studios
+- 🏛 the official Founder of The Tahjae Media Group
 # My Development
 - I am currently working on AI, Javascript, Minecraft Mods, and so much more
 # How to contact
