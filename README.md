@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @TahjaeDev
-- 🏛 the official Founder of NossTos
+- 🏛 the official Founder of The NossTos Project
 # My Development
 - I am currently working on AI, Javascript, Minecraft Mods, and so much more
 # How to contact
