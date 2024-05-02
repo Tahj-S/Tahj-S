@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @Tahj-S
-- 🏛 the official Founder of The Archived NossTos Project and Co Owner of ECAS Studios
+- 🏛 the official Founder of The NossTos Project and Co Owner of ECAS Studios
 # My Development
 - I am currently working on AI, Javascript, and so much more
 # How to contact
