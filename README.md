@@ -2,7 +2,10 @@
 - 👋 Hi, I’m @Tahj-S
 - 🏛 the official Founder of The NossTos Project and Co Owner of ECAS Studios
 # My Development
-- I am currently working on AI, Javascript, and so much more
+- I am currently working on Javascript, Bash projects, Python, and so much more
+# Status
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Working+on+ez-sh)](https://git.io/typing-svg)
+
 # How to contact
 - you can contact me on my [twitter](https://twitter.com/Ultrain3D) (see social accounts for more info)
 - you can also email me [here](mailto:tahjaedev@proton.me)
@@ -11,4 +14,3 @@ Check out my socials if you want to contact me and/or follow
 - Twitter alt ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTahjaeDev2%2F&style=flat&logo=X&label=Alt%20acc&color=%23ADD8E6)
 - Twitter main ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FMTos155&style=flat&logo=X&label=Main%20acc&color=%23ADD8E6)
 - Youtube ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrE7RPRgYTjRG7hjaN2uaRQ?style=flat&logo=youtube)
-
