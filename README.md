@@ -4,7 +4,7 @@
 # My Development
 - I am currently working on Javascript, Bash projects, Python, and so much more
 # Status
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Working+on+ez-sh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=RNG)](https://git.io/typing-svg)
 
 # How to contact
 - you can contact me on my [twitter](https://twitter.com/Ultrain3D) (see social accounts for more info)
