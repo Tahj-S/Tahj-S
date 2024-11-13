@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Tahj-S
 - 🏛 the official Founder of The NossTos Project and Co Owner of ECAS Studios
 # My Development
-- I am currently working on Javascript, Bash projects, Python, and so much more
+- I am currently working Bash projects, Python, and so much more
 # Status
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=RNG)](https://git.io/typing-svg)
 
